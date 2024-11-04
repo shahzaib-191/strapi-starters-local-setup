@@ -1,0 +1,1 @@
+# strapi-starters-local-setup
